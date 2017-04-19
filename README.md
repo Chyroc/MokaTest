@@ -48,3 +48,4 @@ homepage: https://github.com/Chyroc/MokaTest#readme,
 - `-P`没有做
 - 因为题目中写道尽量不要使用package，刚开始没有用lodash和一些别的库，不太习惯（本身是写python，后来写node，并没有太深的node基础知识，这是我的缺点，有待提高），耽误了一点时间。
 - 异常处理，并没有考虑所有情况，以实现功能为先了，比如-n的参数不是整数。
+- 所有修改，作为一次commit提交。
