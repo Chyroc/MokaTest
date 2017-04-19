@@ -1,0 +1,24 @@
+{
+  "name": "MokaTest",
+  "version": "1.0.0",
+  "description": "MokaTest",
+  "main": "index.js",
+  "bin": {
+    "xxargs": "main.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chyroc/MokaTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chyroc/MokaTest/issues"
+  },
+  "homepage": "https://github.com/Chyroc/MokaTest#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
